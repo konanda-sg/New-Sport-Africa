@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:0.1
+#EXT-X-MEDIA-SEQUENCE:0.1
+#EXTINF:0.1,
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18533&extension=ts
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=37901&extension=ts
+#EXT-X-ENDLIST

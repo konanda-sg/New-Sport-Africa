@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:0.1
+#EXT-X-MEDIA-SEQUENCE:0.1
+#EXTINF:0.1,
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=3349&extension=ts
+#EXTINF:0.2,
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=566522&extension=ts
+#EXT-X-ENDLIST

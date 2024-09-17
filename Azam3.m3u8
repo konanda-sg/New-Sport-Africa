@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=5300000,AVERAGE-BANDWIDTH=5191434,RESOLUTION=1020x720,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
+http://line.prime4tv.com:80/play/live.php?mac=00:1A:79:00:06:FC&stream=1118129&extension=m3u8
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:08:E8:19&stream=278516&extension=m3u8

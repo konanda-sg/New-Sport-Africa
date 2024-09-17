@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://line.prime4tv.com:80/play/live.php?mac=00:1A:79:00:06:FC&stream=1118131&extension=ts
+##http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:08:E8:19&stream=539836&extension=ts
