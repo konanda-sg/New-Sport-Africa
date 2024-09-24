@@ -5,7 +5,7 @@
 #EXT-X-PART-INF:PART-TARGET=1
 #EXT-X-MEDIA-SEQUENCE:100
 #EXTINF:1,
-http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=3353&extension=ts
+http://kstv.us:8080/tH300gvHff/8606073792/47634
 #EXTINF:0.2,
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=652910&extension=ts
 #EXT-X-ENDLIST
