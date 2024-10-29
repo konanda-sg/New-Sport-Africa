@@ -2,7 +2,5 @@
 #EXT-X-TARGETDURATION:0.1
 #EXT-X-MEDIA-SEQUENCE:0.1
 #EXTINF:0.1,
-http://mgawow.xyz:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=531517&extension=ts
-#EXTINF:0.2,
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=652914&extension=ts
+http://102.129.200.19:8080/play/live.php?mac=00:1A:79:A1:B1:0A&stream=217436&extension=ts
 #EXT-X-ENDLIST
