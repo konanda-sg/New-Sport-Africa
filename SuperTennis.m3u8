@@ -2,7 +2,5 @@
 #EXT-X-TARGETDURATION:1
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:1,
-http://mgawow.xyz:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=531518&extension=ts
-#EXTINF:1,
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18533&extension=ts
+http://102.129.200.19:8080/play/live.php?mac=00:1A:79:A1:B1:0A&stream=217438&extension=ts&play_token=OnBNaAMUtx
 #EXT-X-ENDLIST
