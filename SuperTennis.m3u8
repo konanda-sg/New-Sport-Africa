@@ -2,5 +2,5 @@
 #EXT-X-TARGETDURATION:1
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:1,
-http://200.26.188.39:80/play/live.php?mac=00:1A:79:17:1E:57&stream=396878&extension=ts
+http://fuego-iptv.net:2082/play/live.php?mac=00:1A:79:b4:e7:43&stream=138736&extension=ts&play_token=Br20vHdMIF
 #EXT-X-ENDLIST
