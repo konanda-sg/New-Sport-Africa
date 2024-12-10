@@ -2,5 +2,5 @@
 #EXT-X-TARGETDURATION:0.1
 #EXT-X-MEDIA-SEQUENCE:0.1
 #EXTINF:0.1,
-http://kstv.us:8080/tH300gvHff/8606073792/47639
+http://fuego-iptv.net:2082/play/live.php?mac=00:1A:79:b4:e7:43&stream=138737&extension=ts&play_token=OfLZHSa1AV
 #EXT-X-ENDLIST
