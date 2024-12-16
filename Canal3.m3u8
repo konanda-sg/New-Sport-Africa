@@ -6,5 +6,6 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://fuego-iptv.net:8080/play/live.php?mac=00:1A:79:b4:e7:43&stream=1236022&extension=ts&play_token=j92OMXWLKU
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/142889
+http://pythonlived.com:2052/play/live.php?mac=00:1a:79:c6:cc:db&stream=62466&extension=ts
+
+
